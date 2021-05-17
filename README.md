@@ -4,4 +4,4 @@
 2.Python Conditions and loops
 3.Python functions
 4.Strings and file handling
-5.Numpy basics
+5.Numpy basics 
